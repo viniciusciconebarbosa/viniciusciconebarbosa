@@ -28,6 +28,7 @@
  
  <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer">
   <img align="center" background-color="white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="55" height="55"/>
+
   
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -38,4 +39,9 @@
   
  <a href="https://postman.com" target="_blank" rel="noreferrer">
  <img align="center"src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  
+
+<br>
+<br>
+<a href="https://www.linkedin.com/in/vinicius-cicone-barbosa-8673a9147/" target="_blank" rel="noreferrer">
+ <img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="postman" width="60" height="40"/>
+   
