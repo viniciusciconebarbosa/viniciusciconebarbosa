@@ -51,5 +51,5 @@
  <img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="postman" width="60" height="40"/>
 <br>
 <br>
-<a href="https://www.instagram.com/vinixius_zx/" target="_blank" rel="noreferrer">
- <img align="center"src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta" width="40" height="20"/>
+<!-- <a href="https://www.instagram.com/vinixius_zx/" target="_blank" rel="noreferrer">
+ <img align="center"src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta" width="40" height="20"/> -->
