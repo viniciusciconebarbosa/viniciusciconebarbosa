@@ -49,7 +49,9 @@
 <br>
 <a href="https://www.linkedin.com/in/vinicius-cicone-barbosa-8673a9147/" target="_blank" rel="noreferrer">
  <img align="center"src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="postman" width="60" height="40"/>
-<br>
-<br>
-<!-- <a href="https://www.instagram.com/vinixius_zx/" target="_blank" rel="noreferrer">
- <img align="center"src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="insta" width="40" height="20"/> -->
+</a>
+   
+### Infrastructure
+
+<a href="https://aws.amazon.com/pt/free/" target="_blank" rel="noreferrer">
+ <img align="center"src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="140" height="80"/>
