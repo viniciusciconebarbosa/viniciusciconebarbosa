@@ -2,8 +2,8 @@
  
 <div>
   <a href="https://github.com/viniciuscicone">
-    <img height="150em" width="340em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciuscicone&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="150em" width="280em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciuscicone&layout=compact&langs_count=7&theme=react" />
+    <img height="150em" width="340em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciuscicone&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="150em" width="280em" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viniciuscicone&layout=compact&langs_count=7&theme=merko" />
   </a>
 </div>
   
