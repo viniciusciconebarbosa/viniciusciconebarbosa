@@ -9,13 +9,13 @@
 </div>
   
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-left: 20px;">  
+<div style="display: inline_block"  align="center"><br>
+  <img align="center" alt="Vini-Js" height="40" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-left: 60px;">  
   <img align="center" alt="Vini-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="margin-left: 20px;">
   <img align="center" alt="Vini-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="margin-left: 20px;">
  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img align="center" alt="Vini-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="margin-left: 20px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+    <img align="center" alt="Vini-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="padding: 20px;">
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -53,7 +53,7 @@
 
 <br>
 <br>
-
+<div style="display: inline_block"  align="center">
 <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
   <img align="center" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="90" height="40" style="margin-left: 20px;">
 </a>
@@ -65,15 +65,20 @@
 <a href="https://junit.org/junit5/"  target="_blank" rel="noreferrer">
   <img align="center" src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="Junit" width="30" height="30" style="margin-left: 20px;">
 </a>
-
+</div>
 <br>
 <br>
-
+<div style="display: inline_block"  align="center">
 <a href="https://www.linkedin.com/in/vinicius-cicone-barbosa-8673a9147/" target="_blank" rel="noreferrer">
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="60" height="40" style="margin-left: 20px;">
 </a>
+</div>
 
 ### Infrastructure
 
+<div style="display: inline_block"  align="center">
+
 <a href="https://aws.amazon.com/pt/free/" target="_blank" rel="noreferrer">
  <img align="center"src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="140" height="80"/>
+</a>
+</div>
