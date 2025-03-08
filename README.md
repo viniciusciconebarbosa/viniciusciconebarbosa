@@ -3,7 +3,7 @@
 <div>
 <div align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciuscicone&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 56%; max-width: 440px; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscicone&layout=compact&langs_count=8&theme=merko" style="width: 35%; max-width: 280px; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuscicone&layout=compact&langs_count=10&theme=merko" style="width: 31%; max-width: 280px; height: auto;">
 </div>
 
 </div>
