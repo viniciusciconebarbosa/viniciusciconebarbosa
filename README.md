@@ -65,6 +65,11 @@
 <a href="https://junit.org/junit5/"  target="_blank" rel="noreferrer">
   <img align="center" src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="Junit" width="30" height="30" style="margin-left: 20px;">
 </a>
+
+
+<a href="https://maven.apache.org/"  target="_blank" rel="noreferrer">
+  <img align="center" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="maven" width="80" height="80" style="margin-left: 20px;">
+</a>
 </div>
 <br>
 <br>
