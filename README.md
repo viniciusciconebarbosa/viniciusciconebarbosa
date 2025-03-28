@@ -79,11 +79,17 @@
 </a>
 </div>
 
-### Infrastructure
+<div text-align: center; style="display: inline_block"  align="center" >
+  <h3><em>Infrastructure</em></h3>
+</div>
 
 <div style="display: inline_block"  align="center">
 
 <a href="https://aws.amazon.com/pt/free/" target="_blank" rel="noreferrer">
  <img align="center"src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="140" height="80"/>
 </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+ <img align="center"src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="140" height="80"/>
+</a>
+
 </div>
