@@ -6,7 +6,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusciconebarbosa&layout=compact&hide=html&theme=merko&langs_count=10" style="width: 31%; max-width: 280px; height: auto;">
 </div>
 
-
 </div>
   
 
