@@ -1,5 +1,7 @@
-### Hi there 👋
- 
+### Hi there. 👋
+
+#### Currently learning about mobile environments, such as Google Play Console and its guidelines, the Kotlin ecosystem, and mobile architecture, etc. Also improving my English vocabulary, looking to read more books about software engineering, and working towards finishing my college courses.
+
 <div>
 <div align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 56%; max-width: 440px; height: auto;">
@@ -78,7 +80,7 @@
   <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="60" height="40" style="margin-left: 20px;">
 </a>
 </div>
-
+ 
 <div text-align: center; style="display: inline_block"  align="center" >
   <h3><em>Infrastructure</em></h3>
 </div>
