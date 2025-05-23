@@ -1,6 +1,7 @@
 ### Hi there. 👋
 
-#### Currently learning about mobile environments, such as Google Play Console and its guidelines, the Kotlin ecosystem, and mobile architecture, etc. Also improving my English vocabulary, looking to read more books about software engineering, and working towards finishing my college courses.
+#### 📖 **Currently learning** about mobile environments, such as *Google Play Console* and its guidelines, the *Kotlin ecosystem*, and mobile architecture, etc. **Also improving** my English vocabulary, looking to read more books about *software engineering*, and 🎓 working towards finishing my college courses.
+
 
 <div>
 <div align="left">
