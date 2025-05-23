@@ -5,7 +5,8 @@
 ### 📖 **What I'm learning**
 - **Mobile**: Google Play Console, Play Store guidelines, Kotlin, Jetpack Compose, and mobile architecture.
 - **Back-end**: Spring Framework ecosystem.
-- **Other**: Software engineering, reading technical books, and automated testing.
+- **Cyber-security**...
+- **Other**: Software engineering, reading books about best practices and design patterns, and automated testing.
 
 ---
 
