@@ -2,12 +2,6 @@
 
 #### 📖 **Currently learning** about mobile environments, such as *Google Play Console* and its guidelines, the *Kotlin ecosystem*, and mobile architecture, etc. **Also improving** my English vocabulary, looking to read more books about *software engineering*, and 🎓 working towards finishing my college courses.
 
-### 📖 **What I'm learning**
-- **Mobile**: Google Play Console, Play Store guidelines, Kotlin, Jetpack Compose, and mobile architecture.
-- **Back-end**: Spring Framework ecosystem.
-- **Cyber-security**...
-- **Other**: Software engineering, reading books about best practices and design patterns, and automated testing.
-
 ---
 
 ### 📊 **Estatístics of GitHub**
