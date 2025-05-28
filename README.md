@@ -25,7 +25,6 @@
 <p align="center">
   <table>
     <tr>
-     </tr>
       <td align="center" width="96">
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
@@ -42,29 +41,42 @@
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40" />
         </a>
-          <br>TypeScript
+        <br>TypeScript
       </td>
       <td align="center" width="96">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
         </a>
-          <br>JavaScript
+        <br>JavaScript
       </td>
       <td align="center" width="96">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
         </a>
-          <br>HTML5
+        <br>HTML5
       </td>
       <td align="center" width="96">
         <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
         </a>
-          <br>CSS3
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <a href="https://angular.io/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40" />
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" width="96">
+        <a href="https://remix.run/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/remixrun/remixrun-ar21~bgwhite.svg" />
+        </a>
+        <br>Remix
       </td>
     </tr>
   </table>
 </p>
+
 
 ### <em>Back-end</em>
 <p align="center">
