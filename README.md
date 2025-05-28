@@ -111,13 +111,6 @@
   <table>
         <tr>
      </tr>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
-        </a>
-        <br>Kotlin
-      </td>
       <td align="center" width="96">
         <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="40" height="40" />
