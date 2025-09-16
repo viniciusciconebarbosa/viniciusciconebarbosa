@@ -7,7 +7,7 @@
 ### 📊 **Estatístics of GitHub**
 <div>
 <div align="left">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 68%; max-width: 440px; height: auto;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 67%; max-width: 440px; height: auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusciconebarbosa&layout=compact&hide=html&theme=merko&langs_count=22" style="width: 30%; max-width: 280px; height: auto;">
 </div>
 
