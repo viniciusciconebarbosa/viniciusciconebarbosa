@@ -7,13 +7,11 @@
 ### 📊 **Estatístics of GitHub**
 <div>
 <div align="left">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 67%; max-width: 440px; height: auto;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusciconebarbosa&layout=compact&hide=html&theme=merko&langs_count=22" style="width: 30%; max-width: 280px; height: auto;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 44%; max-width: 340px; height: auto;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusciconebarbosa&theme=merko" style="width: 30%; max-width: 280px; height: auto;">
 </div>
 
-
----
-
+<!--https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusciconebarbosa&layout=compact&hide=html&theme=merko&langs_count=22-->
 <div text-align: center; style="display: inline_block"  align="left" >
   <h3><em>🛠️ Tecnologias e Ferramentas:</em></h3>
 </div>
