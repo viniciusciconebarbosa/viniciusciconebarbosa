@@ -1,6 +1,15 @@
-### *Hi there. 👋*
+### *Hi there. 👋 I'm Vinicius Barbosa*
 
-#### 📖 **Currently learning** about mobile environments, such as *Google Play Console* and its guidelines, the *Kotlin ecosystem*, and mobile architecture, etc. **Also improving** my English vocabulary, looking to read more books about *software engineering*, and 🎓 working towards finishing my college courses.
+#### 📖 **About Me / Sobre Mim**
+* 🇺🇸 **EN:** Backend Developer finishing my degree in **Systems Analysis and Development** at Faculdade São Francisco de Assis. Currently focused on building scalable **Java (Spring Boot)** and **Node.js (NestJS)** architectures, integrated with **Machine Learning** solutions. Also exploring the mobile ecosystem to understand the full data journey.
+* 🇧🇷 **PT:** Desenvolvedor Backend finalizando a graduação em **Análise e Desenvolvimento de Sistemas** na Faculdade São Francisco de Assis. Focado em arquiteturas escaláveis com **Java** e **Node.js**, além de integrações de inteligência de dados com **Python**. Explorando também o ecossistema mobile (Kotlin) para visão ponta a ponta de sistemas.
+
+---
+
+### 🏆 *Featured Projects / Projetos em Destaque*
+- 📚 **[ERP Library System](https://github.com/viniciusciconebarbosa/erp-system-library-spring):** Robust ERP built with Java 21, Spring Security/JWT, and deployed on Oracle Cloud (OCI).
+- 🤖 **[Churn Prediction API](https://github.com/viniciusciconebarbosa/machine-learning-frela):** Machine Learning RESTful API (Python/Random Forest) for customer retention analysis.
+- 🌳 **[Word Hierarchy Analyzer](https://github.com/viniciusciconebarbosa/analisador_hierarquia_de_palavras):** High-performance CLI tool for complex data structure processing.
 
 ---
 
@@ -11,7 +20,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusciconebarbosa&theme=merko" style="width: 30%; max-width: 280px; height: auto;">
 </div>
 
-<!--https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusciconebarbosa&layout=compact&hide=html&theme=merko&langs_count=22-->
+<br>
+
 <div text-align: center; style="display: inline_block"  align="left" >
   <h3><em>🛠️ Tecnologias e Ferramentas:</em></h3>
 </div>
@@ -75,12 +85,9 @@
   </table>
 </p>
 
-
 ### <em>Back-end</em>
 <p align="center">
   <table>
-        <tr>
-     </tr>
     <tr>
       <td align="center" width="96">
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
@@ -111,6 +118,12 @@
           <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40" />
         </a>
         <br>Spring
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+        <br>Python
       </td>
     </tr>
   </table>
@@ -145,8 +158,6 @@
 ### <em>Testing</em>
 <p align="center">
   <table>
-        <tr>
-     </tr>
     <tr>
       <td align="center" width="96">
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -186,58 +197,56 @@
 <p align="center">
   <table>
     <tr>
-    </tr>
-    <tr>
-      <td align="center" width="150">
+      <td align="center" width="130">
         <a href="https://aws.amazon.com/pt/free/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width="80" height="50" />
         </a>
         <br>AWS
       </td>
-      <td align="center" width="150">
+      <td align="center" width="130">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" />
         </a>
         <br>Docker
       </td>
-      <td align="center" width="150">
+      <td align="center" width="130">
         <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="Oracle" width="80" height="50" />
         </a>
         <br>Oracle
       </td>
+      <td align="center" width="130">
+        <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="50" height="50" />
+        </a>
+        <br>Nginx
+      </td>
+      <td align="center" width="130">
+        <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="50" height="50" />
+        </a>
+        <br>CI/CD
+      </td>
     </tr>
   </table>
 </p>
-
-
-
-
-
-
-
-
-
-
 
 ---
 
 ### 📬 **Connect with me**
 <div style="display: inline-block; text-align: center;">
 <a href="https://www.linkedin.com/in/vinicius-cicone-barbosa-8673a9147/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="Vinicius' LinkedIn" width="130" height="50" style="margin: 0 10px;">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="LinkedIn" width="130" height="50" style="margin: 0 10px;">
 </a>
-  <!-- Add the link to the Play Store when you publish your apps -->
-  <!-- <a href="https://play.google.com/store/apps/developer?id=YourName" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_play/google_play-icon.svg" alt="Google Play Store" width="80" height="40" style="margin: 0 10px;">
-  </a> -->
+<a href="https://viniciusbarbosadev.app" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" height="35" style="margin: 0 10px; transform: translateY(-7px);">
+</a>
 </div>
 
 ---
 
- *(More projects will be added here soon!)*
-
+*(More projects will be added here soon!)*
 
 ---
 
-💡 **Interested in collaborating or learning more about my projects?** Feel free to reach out via LinkedIn or check out my GitHub repositories!
+💡 **Interested in collaborating or learning more about my projects?** Feel free to reach out via LinkedIn or check out my Portfolio!
