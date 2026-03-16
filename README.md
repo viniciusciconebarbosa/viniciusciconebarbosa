@@ -7,7 +7,7 @@
 ---
 
 ### 🏆 *Featured Projects / Projetos em Destaque*
-- 📚 **[ERP Library System](https://github.com/viniciusciconebarbosa/erp-system-library-spring):** Robust ERP built with Java 21, Spring Security/JWT, and deployed on Digital Ocean (OCI).
+- 📚 **[ERP Library System](https://github.com/viniciusciconebarbosa/erp-system-library-spring):** Robust ERP built with Java 21, Spring Security/JWT, and deployed on Digital Ocean.
 - 🤖 **[Churn Prediction API](https://github.com/viniciusciconebarbosa/machine-learning-frela):** Machine Learning RESTful API (Python/Random Forest) for customer retention analysis.
 - 🌳 **[Word Hierarchy Analyzer](https://github.com/viniciusciconebarbosa/analisador_hierarquia_de_palavras):** High-performance CLI tool for complex data structure processing.
 
