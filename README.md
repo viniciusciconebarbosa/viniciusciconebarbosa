@@ -203,6 +203,12 @@
         </a>
         <br>AWS
       </td>
+        <td align="center" width="130">
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21~bgwhite.svg" alt="Cloudflare" width="60" height="50" />
+  </a>
+  <br>Cloudflare
+</td>
       <td align="center" width="130">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
           <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="50" height="50" />
