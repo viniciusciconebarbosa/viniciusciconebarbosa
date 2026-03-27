@@ -10,7 +10,7 @@
 - 📚 **[ERP Library System](https://github.com/viniciusciconebarbosa/erp-system-library-spring):** Robust ERP built with Java 21, Spring Security/JWT, and deployed on Digital Ocean.
 - 🤖 **[Churn Prediction API](https://github.com/viniciusciconebarbosa/machine-learning-frela):** Machine Learning RESTful API (Python/Random Forest) for customer retention analysis.
 - 🌳 **[Word Hierarchy Analyzer](https://github.com/viniciusciconebarbosa/analisador_hierarquia_de_palavras):** High-performance CLI tool for complex data structure processing.
-
+- 🔔 **[AI Notification Hub](https://github.com/viniciusciconebarbosa/notification-hub):** Intelligent messaging gateway built with NestJS and Gemini AI. Features automated content refinement, PostgreSQL persistence, and full Docker orchestration.
 ---
 
 ### 📊 **Estatístics of GitHub**
@@ -85,10 +85,20 @@
   </table>
 </p>
 
-### <em>Back-end</em>
+<div align="center">
+  <h3><em>Back-end</em></h3>
+  <div>
+
+
 <p align="center">
   <table>
     <tr>
+      <td align="center" width="96">
+        <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+          <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40" height="40" />
+        </a>
+        <br>NestJS
+      </td>
       <td align="center" width="96">
         <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="40" height="40" />
@@ -100,12 +110,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40" />
         </a>
         <br>Express
-      </td>
-      <td align="center" width="96">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-        </a>
-        <br>MySQL
       </td>
       <td align="center" width="96">
         <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer">
@@ -120,10 +124,42 @@
         <br>Spring
       </td>
       <td align="center" width="96">
+        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+        </a>
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+        </a>
+        <br>MySQL
+      </td>
+    </tr>
+  </table>
+</p>
+
+### <em>AI & Automation Tools</em>
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Gemini AI" width="40" height="40" />
+        </a>
+        <br>Gemini AI
+      </td>
+      <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
         </a>
         <br>Python
+      </td>
+      <td align="center" width="96">
+        <a href="https://n8n.io/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="40" height="40" />
+        </a>
+        <br>n8n
       </td>
     </tr>
   </table>
