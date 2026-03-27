@@ -13,18 +13,22 @@
 - 🔔 **[AI Notification Hub](https://github.com/viniciusciconebarbosa/notification-hub):** Intelligent messaging gateway built with NestJS and Gemini AI. Features automated content refinement, PostgreSQL persistence, and full Docker orchestration.
 ---
 
-### 📊 **Estatístics of GitHub**
+
+<div align="center">
+  <h3>📊 Estatístics of GitHub</h3>
+  <div>
+
 <div>
-<div align="left">
+<div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=viniciusciconebarbosa&show_icons=true&theme=merko&include_all_commits=true&count_private=true" style="width: 44%; max-width: 340px; height: auto;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=viniciusciconebarbosa&theme=merko" style="width: 30%; max-width: 280px; height: auto;">
 </div>
 
 <br>
 
-<div text-align: center; style="display: inline_block"  align="left" >
-  <h3><em>🛠️ Tecnologias e Ferramentas:</em></h3>
-</div>
+<div align="center">
+  <h3>🛠️ Tecnologias e Ferramentas:</h3>
+  <div>
 
 <div align="center">
   <h3><em>Front-end</em></h3>
