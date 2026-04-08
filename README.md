@@ -1,3 +1,12 @@
+<div align="left" style="border-radius: 30px; padding: 10px;">
+  <img 
+    src="https://github.com/user-attachments/assets/43817113-965a-4a91-a7ad-c027a8210136" 
+    alt="Mario Coding" 
+    style="width: 75%; height: 50%; object-fit: contain;"
+  />
+</div>
+<!-- //![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/43817113-965a-4a91-a7ad-c027a8210136) -->
+
 ### *Hi there. 👋 I'm Vinicius Barbosa*
 
 #### 📖 **About Me / Sobre Mim**
@@ -12,7 +21,6 @@
 - 🌳 **[Word Hierarchy Analyzer](https://github.com/viniciusciconebarbosa/analisador_hierarquia_de_palavras):** High-performance CLI tool for complex data structure processing.
 - 🔔 **[AI Notification Hub](https://github.com/viniciusciconebarbosa/notification-hub):** Intelligent messaging gateway built with NestJS and Gemini AI. Features automated content refinement, PostgreSQL persistence, and full Docker orchestration.
 ---
-
 
 <div align="center">
   <h3>📊 Estatístics of GitHub</h3>
