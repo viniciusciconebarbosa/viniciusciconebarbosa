@@ -1,11 +1,11 @@
-<div align="center" style="border-radius: 30px; padding: 10px;">
+<!--<div align="center" style="border-radius: 30px; padding: 10px;">
   <img 
     src="https://github.com/user-attachments/assets/6abecb04-7d01-4718-87d7-3fedec362df9" 
     alt="Mario Coding" 
     style="width: 100%; object-fit: contain;"
   />
 </div>
-<!-- //![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/43817113-965a-4a91-a7ad-c027a8210136) -->
+ //![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b](https://github.com/user-attachments/assets/43817113-965a-4a91-a7ad-c027a8210136) -->
 <!--![242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b-ezgif com-crop](https://github.com/user-attachments/assets/6abecb04-7d01-4718-87d7-3fedec362df9)-->
 
 ### *Hi there. 👋 I'm Vinicius Barbosa*
