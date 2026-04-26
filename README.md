@@ -11,7 +11,7 @@
 ### *Hi there. 👋 I'm Vinicius Barbosa*
 
 #### 📖 **About Me / Sobre Mim**
-* 🇺🇸 **EN:** Backend Developer finishing my degree in **Systems Analysis and Development** at Faculdade São Francisco de Assis. Currently focused on building scalable **Java (Spring Boot)** and **Node.js (NestJS)** architectures, integrated with **Machine Learning** solutions. Also exploring the mobile ecosystem to understand the full data journey.
+* 🇬🇧 **EN:** Backend Developer finishing my degree in **Systems Analysis and Development** at Faculdade São Francisco de Assis. Currently focused on building scalable **Java (Spring Boot)** and **Node.js (NestJS)** architectures, integrated with **Machine Learning** solutions. Also exploring the mobile ecosystem to understand the full data journey.
 * 🇧🇷 **PT:** Desenvolvedor Backend finalizando a graduação em **Análise e Desenvolvimento de Sistemas** na Faculdade São Francisco de Assis. Focado em arquiteturas escaláveis com **Java** e **Node.js**, além de integrações de inteligência de dados com **Python**. Explorando também o ecossistema mobile (Kotlin) para visão ponta a ponta de sistemas.
 
 ---
