@@ -174,7 +174,7 @@
   </table>
 </p>
 
-### **Mobile** <— *Learning...* 📱
+### **Mobile** 
 <p align="center">
   <table>
     <tr>
